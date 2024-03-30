@@ -7,7 +7,7 @@ import { FaShoppingCart } from "react-icons/fa";
 const Navbar = () => {
   return (
     <div className="bg-light">
-      <nav className="navbar navbar-expand-lg navbar-light  mb-5 ms-5">
+      <nav className="navbar navbar-expand-lg navbar-light  mb-1 ms-5">
         <div className="container-fluid">
           <a className="navbar-brand " href="/">
             <img
