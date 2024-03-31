@@ -2,7 +2,7 @@ const Community = () => {
   return (
     <div>
       <div className="container">
-        <div style={{ background: "#F7FDFF" }} className="row">
+        <div style={{ background: "#F7FDFF" }} className="row my-4">
           <div className="col  ">
             <div className="col-sm-12 mt-4 p-4">
               <h4 className="poppins-light">
