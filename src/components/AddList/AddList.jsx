@@ -1,9 +1,9 @@
 import { IoIosAddCircle } from "react-icons/io";
 const AddList = () => {
   return (
-    <div style={{ background: "#F7FDFF" }}>
+    <div>
       <div className="container">
-        <div className="row">
+        <div style={{ background: "#F7FDFF" }} className="row">
           <div className="col border ">
             <div className="col-sm-12 mt-4 p-4">
               <div className="card">
